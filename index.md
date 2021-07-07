@@ -2,7 +2,7 @@
 
 ## My main research topics
 
-* [Effects of microbial communities and metabolic functions due to a changing climate](ArcticMetagenome)
+* [Effects of microbial communities and metabolic functions due to a changing climate](#ArcticMetagenome)
 * Pathogen/symbiont-host interactions using integrative omics, mainly Genomics and transcriptomics
 * Bioinformatics tool development
 * Single cell genomics of complex eukaryotes
