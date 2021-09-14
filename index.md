@@ -55,6 +55,8 @@ Team: Dag Ahrén, Lokeshwaran Manoharan, Sandeep Kushwaha
 
 #### MetCap pipeline for designing sequence probes for targetet metagenomics applications
 
+![](images/metcap_workflow.jpg)
+
 #### Interactive analysis of metagenomics data using Rshiny
 Team: Arthur Boffelli, Joel White, Dag Ahrén
 ![](https://github.com/Bioinformatics-master-Lund-University/interomics)
