@@ -80,7 +80,7 @@ Team: Victor Kalbskopf, Dag Ahrén, Olof Hellgren, Shifts in gene expression var
 Publication Gene 2021: [Shifts in gene expression variability in the blood-stage of Plasmodium relictum](https://www.sciencedirect.com/science/article/pii/S0378111921003176)
 
 ### Songbird adaptation to an urban environment
-Publication, Nature 2021: [Continent-wide genomic signatures of adaptation to urbanisation in a songbird across Europe](https://www.nature.com/articles/s41467-021-23027-w)
+Publication, Nature Communications 2021: [Continent-wide genomic signatures of adaptation to urbanisation in a songbird across Europe](https://www.nature.com/articles/s41467-021-23027-w)
 
 * * * *
 
