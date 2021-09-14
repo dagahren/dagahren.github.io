@@ -3,6 +3,9 @@
 
 ## My main research topics
 I have many interests when it comes to science! Here I have selected a few of the recent projects and divided them into themes, although this is fairly arbitrary division.
+
+[Full list of publications according to Google Scholar:](https://scholar.google.com/citations?hl=sv&user=lqZKmqIAAAAJ&view_op=list_works&sortby=pubdate)
+
 * [Effects of microbial communities and metabolic functions due to a changing climate](#ArcticMetagenome)
 * [Pathogen/symbiont-host interactions using integrative omics, mainly Genomics and transcriptomics](#Pathogen)
 * [Bioinformatics tool development](#Bioinfo)
@@ -34,6 +37,7 @@ Although many biochemical reactions have been described decades ago, there are m
 
 ### Arbuscular mycorrhiza
 Team: Dag Ahrén, Katja Kozjek, Katarina Hedlund, Pål Axel Olsson
+
 Publication: [Long-term agricultural management impacts arbuscular mycorrhizal fungi more than short-term experimental drought](https://www.sciencedirect.com/science/article/pii/S0929139321002638)
 
 * * * *
@@ -42,9 +46,12 @@ Publication: [Long-term agricultural management impacts arbuscular mycorrhizal f
 
 ### Avian Malaria
 
-Team: Victor Kalbskopf, Dag Ahrén, Olof Hellgren, Shifts in gene expression variability in the blood-stage of Plasmodium relictum
-Publication: [Shifts in gene expression variability in the blood-stage of Plasmodium relictum](https://www.sciencedirect.com/science/article/pii/S0378111921003176)
+Team: Victor Kalbskopf, Dag Ahrén, Olof Hellgren, Shifts in gene expression variability in the blood-stage of *Plasmodium relictum*
 
+Publication Gene 2021: [Shifts in gene expression variability in the blood-stage of Plasmodium relictum](https://www.sciencedirect.com/science/article/pii/S0378111921003176)
+
+### Songbird adaptation to an urban environment
+Publication, Nature 2021: [Continent-wide genomic signatures of adaptation to urbanisation in a songbird across Europe](https://www.nature.com/articles/s41467-021-23027-w)
 
 * * * *
 
@@ -76,5 +83,9 @@ Team: Raphael Gollnisch, Dag Ahrén, Karin Rengefors
 [Calcium and pH interaction limits bloom formation and expansion of a nuisance microalga](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.11896)
 
 ### Population genomics and transcriptomics in Dinoflagellates
+
+### Fungal genomics and transcriptomics
+Publication ISME 2020: [Uncovering the hidden diversity of litter-decomposition mechanisms in mushroom-forming fungi](https://www.nature.com/articles/s41396-020-0667-6)
+
 
 
