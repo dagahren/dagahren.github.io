@@ -53,16 +53,18 @@ Publication: [Shifts in gene expression variability in the blood-stage of Plasmo
 # <a name="Bioinfo">Bioinformatic tools</a>
 Team: Dag Ahrén, Lokeshwaran Manoharan, Sandeep Kushwaha
 
-#### MetCap pipeline for designing sequence probes for targetet metagenomics applications
+#### MetCap pipeline for designing sequence probes for targeted metagenomics applications
 
 ![](images/metcap_workflow.jpg)
 
 #### Interactive analysis of metagenomics data using Rshiny
 Team: Arthur Boffelli, Joel White, Dag Ahrén
-![](https://github.com/Bioinformatics-master-Lund-University/interomics)
+
+![Interomics on Github](https://github.com/Bioinformatics-master-Lund-University/interomics)
 
 #### R pipeline for analysing Arbuscular Mycorrhiza Pacific Biosciences sequence data
-![](https://github.com/dagahren/PacBio_AMF_workflow)
+
+![PacBio_AMF_workflow on Github](https://github.com/dagahren/PacBio_AMF_workflow)
 
 * * * *
 # <a name="singlecellGenomics">Single Cell Genomics of Complex Eukaryotes</a>
