@@ -1,6 +1,8 @@
 # Welcome to the Ahren Lab!
+![](/images/DagAhrenPhoto_Zackenberg%20-%201.jpeg)
 
 ## My main research topics
+I have many interests when it comes to science! Here I have selected a few of the recent projects and divided them into themes, although this is fairly arbitrary division.
 
 * [Effects of microbial communities and metabolic functions due to a changing climate](#ArcticMetagenome)
 * [Pathogen/symbiont-host interactions using integrative omics, mainly Genomics and transcriptomics](#Pathogen)
