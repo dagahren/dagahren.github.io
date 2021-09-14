@@ -60,12 +60,12 @@ Team: Dag Ahrén, Lokeshwaran Manoharan, Sandeep Kushwaha
 #### Interactive analysis of metagenomics data using Rshiny
 Team: Arthur Boffelli, Joel White, Dag Ahrén
 
-![Interomics on Github](https://github.com/Bioinformatics-master-Lund-University/interomics)
-![Link to the Interomics Rshiny app](https://aboffelli.shinyapps.io/interomics/)
+[Interomics on Github](https://github.com/Bioinformatics-master-Lund-University/interomics)
+[Link to the Interomics Rshiny app](https://aboffelli.shinyapps.io/interomics/)
 
 #### R pipeline for analysing Arbuscular Mycorrhiza Pacific Biosciences sequence data
 
-![PacBio_AMF_workflow on Github](https://github.com/dagahren/PacBio_AMF_workflow)
+[PacBio_AMF_workflow on Github](https://github.com/dagahren/PacBio_AMF_workflow)
 
 * * * *
 # <a name="singlecellGenomics">Single Cell Genomics of Complex Eukaryotes</a>
