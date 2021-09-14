@@ -5,7 +5,7 @@
 * [Effects of microbial communities and metabolic functions due to a changing climate](#ArcticMetagenome)
 * [Pathogen/symbiont-host interactions using integrative omics, mainly Genomics and transcriptomics](#Pathogen)
 * [Bioinformatics tool development](#Bioinfo)
-* [Single cell genomics of complex eukaryotes](#scGenomics)
+* [Single cell genomics of complex eukaryotes](#singlecellGenomics)
 
 
 # <a name="ArcticMetagenome">Effects of microbial communities and metabolic functions due to a changing climate</a> 
@@ -37,9 +37,7 @@ Team: Dag Ahrén, Lokeshwaran Manoharan, Sandeep Kushwaha
 
 ### 
 
-# <a name="Single Cell Genomics of Complex Eukaryotes">scGenomics</a>
-
-# <a name="Single Cell Genomics of Complex Eukaryotes">scGenomics</a> 
+# <a name="singlecellGenomics">Single Cell Genomics of Complex Eukaryotes</a>
 Team: Raphael Gollnisch, Dag Ahrén, Karin Rengefors
 
 ### Methods development of SAG-RAD sequencing
