@@ -26,7 +26,8 @@ Publication, BMC Bioinformatics: [MetCap: A bioinformatics probe design pipeline
 #### Interactive analysis of metagenomics data using Rshiny
 Team: Arthur Boffelli, Joel White, Dag Ahrén
 
-[Interomics on Github](https://github.com/Bioinformatics-master-Lund-University/interomics)
+[Interomics on Github](https://github.com/Bioinformatics-master-Lund-University/interomics)  
+
 [Link to the Interomics Rshiny app](https://aboffelli.shinyapps.io/interomics/)
 
 #### R pipeline for analysing Arbuscular Mycorrhiza Pacific Biosciences sequence data
