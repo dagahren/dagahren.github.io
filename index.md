@@ -47,9 +47,11 @@ Publication: [Shifts in gene expression variability in the blood-stage of Plasmo
 # <a name="Bioinfo">Bioinformatic tools</a>
 Team: Dag Ahrén, Lokeshwaran Manoharan, Sandeep Kushwaha
 
-### MetCap pipeline for designing sequence probes for targetet metagenomics applications
+#### MetCap pipeline for designing sequence probes for targetet metagenomics applications
 
-### 
+#### Interactive analysis of metagenomics data using Rshiny
+Team: Arthur Boffelli, Joel White, Dag Ahrén
+![](https://github.com/Bioinformatics-master-Lund-University/interomics)
 
 # <a name="singlecellGenomics">Single Cell Genomics of Complex Eukaryotes</a>
 Team: Raphael Gollnisch, Dag Ahrén, Karin Rengefors
