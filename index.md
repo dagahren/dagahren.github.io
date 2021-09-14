@@ -62,6 +62,8 @@ Team: Dag Ahrén, Lokeshwaran Manoharan, Sandeep Kushwaha
 
 ![](images/metcap_workflow.jpg)
 
+Publication, BMC Bioinformatics: [MetCap: A bioinformatics probe design pipeline for large-scale targeted metagenomics](http://dx.doi.org/10.1186/s12859-015-0501-8)
+
 #### Interactive analysis of metagenomics data using Rshiny
 Team: Arthur Boffelli, Joel White, Dag Ahrén
 
@@ -72,6 +74,9 @@ Team: Arthur Boffelli, Joel White, Dag Ahrén
 
 [PacBio_AMF_workflow on Github](https://github.com/dagahren/PacBio_AMF_workflow)
 
+### Support vector machine Predictor for plant resistance proteins
+
+Publication, Bioinformatics 2015: [NBSPred: a support vector machine-based high-throughput pipeline for plant resistance protein NBSLRR prediction](https://academic.oup.com/bioinformatics/article/32/8/1223/1744116?login=true)
 * * * *
 # <a name="singlecellGenomics">Single Cell Genomics of Complex Eukaryotes</a>
 Team: Raphael Gollnisch, Dag Ahrén, Karin Rengefors
