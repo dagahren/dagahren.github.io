@@ -46,8 +46,6 @@ Team: Victor Kalbskopf, Dag Ahrén, Olof Hellgren, Shifts in gene expression var
 Publication: [Shifts in gene expression variability in the blood-stage of Plasmodium relictum](https://www.sciencedirect.com/science/article/pii/S0378111921003176)
 
 
-[Calcium and pH interaction limits bloom formation and expansion of a nuisance microalga](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.11896)
-
 * * * *
 
 # <a name="Bioinfo">Bioinformatic tools</a>
@@ -73,6 +71,10 @@ Team: Raphael Gollnisch, Dag Ahrén, Karin Rengefors
 
 ### Methods development of SAG-RAD sequencing
 
-### Single cell population genomics of Gonyostomum semen
+### Single cell & population genomics of Gonyostomum semen
+
+[Calcium and pH interaction limits bloom formation and expansion of a nuisance microalga](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.11896)
 
 ### Population genomics and transcriptomics in Dinoflagellates
+
+
