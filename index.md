@@ -53,6 +53,9 @@ Team: Dag Ahrén, Lokeshwaran Manoharan, Sandeep Kushwaha
 Team: Arthur Boffelli, Joel White, Dag Ahrén
 ![](https://github.com/Bioinformatics-master-Lund-University/interomics)
 
+#### R pipeline for analysing Arbuscular Mycorrhiza Pacific Biosciences sequence data
+![](https://github.com/dagahren/PacBio_AMF_workflow)
+
 # <a name="singlecellGenomics">Single Cell Genomics of Complex Eukaryotes</a>
 Team: Raphael Gollnisch, Dag Ahrén, Karin Rengefors
 
