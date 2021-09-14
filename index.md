@@ -61,6 +61,7 @@ Team: Dag Ahrén, Lokeshwaran Manoharan, Sandeep Kushwaha
 Team: Arthur Boffelli, Joel White, Dag Ahrén
 
 ![Interomics on Github](https://github.com/Bioinformatics-master-Lund-University/interomics)
+![Link to the Interomics Rshiny app](https://aboffelli.shinyapps.io/interomics/)
 
 #### R pipeline for analysing Arbuscular Mycorrhiza Pacific Biosciences sequence data
 
