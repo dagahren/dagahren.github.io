@@ -13,6 +13,7 @@ I have many interests when it comes to science! Here I have selected a few of th
 # <a name="ArcticMetagenome">Effects of microbial communities and metabolic functions due to a changing climate</a> 
 
 Team: Dag Ahrén, Lena Ström, Joel White
+
 ![](images/Zackenberg_view2.jpg)
 
 ##### Functional potential of microbial metabolism controlling the biogeochemical carbon cycle in northern peatlands
