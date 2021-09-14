@@ -16,7 +16,7 @@ Team: Dag Ahrén, Lena Ström, Joel White
 
 ![](images/Zackenberg_view2.jpg)
 
-##### Functional potential of microbial metabolism controlling the biogeochemical carbon cycle in northern peatlands
+### Functional potential of microbial metabolism controlling the biogeochemical carbon cycle in northern peatlands
 Despite the importance of northern wetlands as one of the worlds largest CO2 sinks, remarkably little is known about the biogeochemical processes and the microbial genes that drive these processes. The carbon is accumulating due to the anoxic, wet conditions in combination with low microbial activity due to cold temperatures, leading to a net deposition of carbon from the primary production in the form of peat. On the other hand, the conditions in these waterlogged soils favour methane production, which is a very potent GHG. The project is run in collaboration with Lena Ström and funded by Formas.
   
   In this project we will combine various environmental measurements such as gas flux measurements, vegetation and soil properties including pH, organic carbon availability and microbial activity with the functional diversity of genes involved in the pathways directly or indirectly linked to the methane cycling. Samples from temperate and arctic sites in Scandinavia (Skogaryd and Abisko, Sweden) as well as artic samples from Zackenberg, Greenland will be analysed to *study the effect on the environmental factors and how the functional diversity of the methane cycle is altered in response to these factors*.
