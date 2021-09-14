@@ -7,19 +7,20 @@
 * [Bioinformatics tool development](#Bioinfo)
 * [Single cell genomics of complex eukaryotes](#singlecellGenomics)
 
-~~~
+* * * *
+
 # <a name="ArcticMetagenome">Effects of microbial communities and metabolic functions due to a changing climate</a> 
 
 Team: Dag Ahrén, Lena Ström, Joel White
-~~~
+
 
 
 # <a name="SoilMetagenome">Metagenomics & amplicon sequencing for improved agricultural management</a> 
-~~~
+
 ### Arbuscular mycorrhiza
 Team: Dag Ahrén, Katja Kozjek, Katarina Hedlund, Pål Axel Olsson
 Publication: [Long-term agricultural management impacts arbuscular mycorrhizal fungi more than short-term experimental drought](https://www.sciencedirect.com/science/article/pii/S0929139321002638)
-~~~
+
 # <a name="Pathogen">Pathogen/symbiont-host interactions using integrative omics, mainly Genomics and transcriptomics</a> 
 
 ### Avian Malaria
