@@ -13,6 +13,10 @@
 
 Team: Dag Ahrén, Lena Ström, Joel White
 
+###Understanding how microorganisms in soils drive biogeochemical processes (Funded by Formas).
+
+Although many biochemical reactions have been described decades ago, there are many cases where the genes encoding for enzymes that catalyze these reactions have not been identified. The discovery is often hampered by the fact that many bacteria can not be cultured. Therefore, culture-free methods for studying the microbial communities and their biochemical compounds is needed. Recent developments in high throughput sequencing has made it feasible to sequence complex metagenomes and has identified novel organism groups as well as previously uncharacterized diversity of genes [@daniel2005metagenomics]. These discoveries are particularly important in the light of the changing climate that the world is facing, since the genes can both act as markers for how environmental changes are affecting the communities but also may provide the solution for reducing green house gas (GHG) emmissions and thereby reduce the anthropogenic impact on the planet. 
+*My current research focus on carbon cycling in soils to understand the effects of climate change on microbial communities and to provide insights into the molecular basis for a sustainable agriculture*.
 
 
 # <a name="SoilMetagenome">Metagenomics & amplicon sequencing for improved agricultural management</a> 
