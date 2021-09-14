@@ -13,6 +13,34 @@ I have many interests when it comes to science! Here I have selected a few of th
 
 * * * *
 
+
+# <a name="Bioinfo">Bioinformatic tools</a>
+Team: Dag Ahrén, Lokeshwaran Manoharan, Sandeep Kushwaha
+
+#### MetCap pipeline for designing sequence probes for targeted metagenomics applications
+
+![](images/metcap_workflow.jpg)
+
+Publication, BMC Bioinformatics: [MetCap: A bioinformatics probe design pipeline for large-scale targeted metagenomics](http://dx.doi.org/10.1186/s12859-015-0501-8)
+
+#### Interactive analysis of metagenomics data using Rshiny
+Team: Arthur Boffelli, Joel White, Dag Ahrén
+
+[Interomics on Github](https://github.com/Bioinformatics-master-Lund-University/interomics)
+[Link to the Interomics Rshiny app](https://aboffelli.shinyapps.io/interomics/)
+
+#### R pipeline for analysing Arbuscular Mycorrhiza Pacific Biosciences sequence data
+
+[PacBio_AMF_workflow on Github](https://github.com/dagahren/PacBio_AMF_workflow)
+
+### Support vector machine Predictor for plant resistance proteins
+
+Publication, Bioinformatics 2015: [NBSPred: a support vector machine-based high-throughput pipeline for plant resistance protein NBSLRR prediction](https://academic.oup.com/bioinformatics/article/32/8/1223/1744116?login=true)
+* * * *
+
+
+
+
 # <a name="ArcticMetagenome">Effects of microbial communities and metabolic functions due to a changing climate</a> 
 
 Team: Dag Ahrén, Lena Ström, Joel White
@@ -55,29 +83,6 @@ Publication, Nature 2021: [Continent-wide genomic signatures of adaptation to ur
 
 * * * *
 
-# <a name="Bioinfo">Bioinformatic tools</a>
-Team: Dag Ahrén, Lokeshwaran Manoharan, Sandeep Kushwaha
-
-#### MetCap pipeline for designing sequence probes for targeted metagenomics applications
-
-![](images/metcap_workflow.jpg)
-
-Publication, BMC Bioinformatics: [MetCap: A bioinformatics probe design pipeline for large-scale targeted metagenomics](http://dx.doi.org/10.1186/s12859-015-0501-8)
-
-#### Interactive analysis of metagenomics data using Rshiny
-Team: Arthur Boffelli, Joel White, Dag Ahrén
-
-[Interomics on Github](https://github.com/Bioinformatics-master-Lund-University/interomics)
-[Link to the Interomics Rshiny app](https://aboffelli.shinyapps.io/interomics/)
-
-#### R pipeline for analysing Arbuscular Mycorrhiza Pacific Biosciences sequence data
-
-[PacBio_AMF_workflow on Github](https://github.com/dagahren/PacBio_AMF_workflow)
-
-### Support vector machine Predictor for plant resistance proteins
-
-Publication, Bioinformatics 2015: [NBSPred: a support vector machine-based high-throughput pipeline for plant resistance protein NBSLRR prediction](https://academic.oup.com/bioinformatics/article/32/8/1223/1744116?login=true)
-* * * *
 # <a name="singlecellGenomics">Single Cell Genomics of Complex Eukaryotes</a>
 Team: Raphael Gollnisch, Dag Ahrén, Karin Rengefors
 
