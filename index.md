@@ -5,6 +5,7 @@
 I have many interests when it comes to science! Here I have selected a few of the recent projects and divided them into themes, although this is fairly arbitrary division.
 
 * [Effects of microbial communities and metabolic functions due to a changing climate](#ArcticMetagenome)
+![](images/Zackenberg_view2.jpg)
 * [Pathogen/symbiont-host interactions using integrative omics, mainly Genomics and transcriptomics](#Pathogen)
 * [Bioinformatics tool development](#Bioinfo)
 * [Single cell genomics of complex eukaryotes](#singlecellGenomics)
