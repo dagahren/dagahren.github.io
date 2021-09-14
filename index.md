@@ -19,9 +19,6 @@ Team: Dag Ahrén, Lena Ström, Joel White
 Team: Dag Ahrén, Katja Kozjek, Katarina Hedlund, Pål Axel Olsson
 Publication: [Long-term agricultural management impacts arbuscular mycorrhizal fungi more than short-term experimental drought](https://www.sciencedirect.com/science/article/pii/S0929139321002638)
 
-
-### 
-
 # <a name="Pathogen">Pathogen/symbiont-host interactions using integrative omics, mainly Genomics and transcriptomics</a> 
 
 ### Avian Malaria
