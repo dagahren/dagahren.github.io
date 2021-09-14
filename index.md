@@ -23,6 +23,8 @@ Despite the importance of northern wetlands as one of the worlds largest CO2 sin
   
 We are using a technique called capture metagenomics that was sucessfully developed in my group. We used the bioinformatics pipeline called MetCap (Figure 1) to design suitable probes based on all publicly available sequences in KEGG that are related to methane pathways [@kanehisa2000kegg]. By designing about 300,000 probes that specifically target the different genes involved in the methanogenesis and methane oxidation enrichment of sequences related to the methane cycling can be performed. The enrichment makes it feasible to investigate large number of samples without having to resort to brute force sequencing of entire metagenomes. The first samples have been sent for sequencing and is expected to be delivered early spring 2019. The approach requires novel, advanced bioinformatic techniques both before and after sequencing, but in return allows for near exhaustive identification of the diversity of the targeted genes. 
 
+* * * *
+
 # <a name="SoilMetagenome">Metagenomics & amplicon sequencing for improved agricultural management</a> 
 
 ### Understanding how microorganisms in soils drive biogeochemical processes (Funded by Formas).
@@ -34,6 +36,8 @@ Although many biochemical reactions have been described decades ago, there are m
 Team: Dag Ahrén, Katja Kozjek, Katarina Hedlund, Pål Axel Olsson
 Publication: [Long-term agricultural management impacts arbuscular mycorrhizal fungi more than short-term experimental drought](https://www.sciencedirect.com/science/article/pii/S0929139321002638)
 
+* * * *
+
 # <a name="Pathogen">Pathogen/symbiont-host interactions using integrative omics, mainly Genomics and transcriptomics</a> 
 
 ### Avian Malaria
@@ -44,6 +48,7 @@ Publication: [Shifts in gene expression variability in the blood-stage of Plasmo
 
 [Calcium and pH interaction limits bloom formation and expansion of a nuisance microalga](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.11896)
 
+* * * *
 
 # <a name="Bioinfo">Bioinformatic tools</a>
 Team: Dag Ahrén, Lokeshwaran Manoharan, Sandeep Kushwaha
@@ -57,6 +62,7 @@ Team: Arthur Boffelli, Joel White, Dag Ahrén
 #### R pipeline for analysing Arbuscular Mycorrhiza Pacific Biosciences sequence data
 ![](https://github.com/dagahren/PacBio_AMF_workflow)
 
+* * * *
 # <a name="singlecellGenomics">Single Cell Genomics of Complex Eukaryotes</a>
 Team: Raphael Gollnisch, Dag Ahrén, Karin Rengefors
 
