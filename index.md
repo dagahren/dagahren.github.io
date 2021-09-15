@@ -2,7 +2,7 @@
 ![](/images/DagAhrenPhoto_Zackenberg%20-%201.jpeg)
 
 ## My main research topics
-I have many interests when it comes to science! Here I have selected a few of the recent projects and divided them into themes, although this is fairly arbitrary division.
+I have many interests when it comes to science! Here I have selected a few of the recent projects and divided them into themes, although this is fairly arbitrary division. In addition to this I am also interested in viruses in arctic communities.
 
 [Full list of publications according to Google Scholar:](https://scholar.google.com/citations?hl=sv&user=lqZKmqIAAAAJ&view_op=list_works&sortby=pubdate)
 
